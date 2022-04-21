@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @Ankita-Mehra
-- 👀 I’m interested in Android development
-- 💞️ I have sound knowledge about Kotlin and java
+- 👀 I’m interested in Android development. I have 2+ years of experience as a Mobile App Developer.
+- 💞️ I have sound knowledge about :
+      ~ Kotlin, java
+      ~ Different Architectures - MVVM, MVP
+      ~ Android SDK, Android Components, Third party libraries
 - 🌱 I’m currently learning JetPack compose
+
+
+Thankyou for taking time to read my profile. 
 
 
 <!---
