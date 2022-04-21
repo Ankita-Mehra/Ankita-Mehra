@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankita-Mehra
 - 👀 I’m interested in Android development. I have 2+ years of experience as a Mobile App Developer.
 - 💞️ I have sound knowledge about 
-      KOTLIN, JAVA, MVVM, MVP
+      KOTLIN, JAVA, MVVM, MVP,
        Android SDK, Android Components, Third party libraries
 - 🌱 I’m currently learning JetPack compose
 
